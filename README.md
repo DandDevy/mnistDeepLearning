@@ -2,6 +2,8 @@
 I made this during a weekend in the summer. 
 I had been watching videos for a while on neural networks and I had heard of TensorFlow, so wanted to try it out.
 
+This NN will predict handwritten numbers from 0 to 9 in a 28*28px image.
+
 I made this in the mnist_Ep1.ipynb file on Jupyter Notebook. 
 
 .ipynb files are strugglying to load on github. 
